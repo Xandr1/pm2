@@ -243,3 +243,4 @@ Thanks in advance and we hope that you like PM2!
 
 PM2 is made available under the terms of the GNU Affero General Public License 3.0 (AGPL 3.0).
 For other licenses [contact us](mailto:contact@keymetrics.io).
+
